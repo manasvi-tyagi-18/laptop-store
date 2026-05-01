@@ -5,4 +5,4 @@ Website Link: https://refurblaptop.shop/
 <br/>
 <br/>
 <br/>
-also Deployed on Vercel: https://laptop-store-khaki.vercel.app
+also Deployed on Vercel: https://laptop-store-manasvi-tyagi-18s-projects.vercel.app/
